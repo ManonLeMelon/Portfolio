@@ -1,0 +1,604 @@
+@import url(bootstrap.css);
+@import url(all.css);
+/*# sourceMappingURL=styles.css.map */
+
+/************VUE MOBILE************/
+/***HEADER***/
+#logo{
+    height: 8em;
+    display: block;
+    margin: auto;
+    padding-bottom: 1em;
+}
+
+/***MAIN***/
+#photographie, #dessin, #diplome, #realisation, #competence, #photo, #experience{
+    width: 100%;
+    padding-bottom: 1em;
+}
+#barre{
+    border-bottom: 4px solid #fcab6a;
+    margin-bottom: 1em;
+}
+#Accueil>.card-img-overlay>h1,h2{
+    color: #F7716C;
+    font-size: 1.05em;
+}
+
+#Accueil>.card-img-overlay>p{
+    color: #408886;
+    padding: 0;
+    font-size: 0.8em;
+}
+.card-img-overlay>h1,h2,p{
+    margin-bottom: 0;
+    padding: 0;
+}
+#Accueil>.card-img-overlay {
+    top: 368px;
+    right: 230px;
+    text-align: center;
+    padding: 0;
+}
+
+/***Footer***/
+#contact{
+    width: 100%;
+}
+
+/******QUI SUIS JE******/
+#ampoule{
+    width: 100%;
+    padding-bottom: 3em;
+}
+#graphic>.card-img-overlay {
+    top: 267px;
+    font-size: 0.8em;
+    color: white;
+    left: -8px;
+}
+
+/******PARTIE GRAPHISME******/
+#graphisme>h1{
+    color: #408886;
+    margin: 0.5em;
+    font-size: 1.4em;
+}
+.card{
+    margin: 1em;
+}
+.card-text{
+    font-size: 0.80em;
+}
+#orange{
+    background-color: #fcab6a;
+    color: #408886;
+    
+}
+
+#grey{
+    background-color: #707070;
+    color: #F7716C;
+}
+
+
+#bleu{
+    background-color: #408886;
+    color: #fcab6a;
+}
+
+#rose{
+    background-color: #F7716C;
+    color: #707070;
+}
+
+#voir{
+    position: absolute;
+    right: 0em;
+    top: 6em;
+}
+
+
+/******BOUTON PARTAGE******/
+#icone{
+    height: 2em;
+    padding-left: 5px;
+}
+
+/******BOUTON J'AIME******/
+  
+
+/******BOUTON VUE******/
+
+/******PROJET 1******/
+#photo1, #photo2, #photo3, #photo4, #photo5, #photo6{
+    width: 100%;
+}
+p{
+    font-size: 0.8em;
+}
+#colonne6{
+    padding-right: 0px;
+    padding-left: 0px;
+    display: block;
+    top: 25px;
+}
+
+#colonne1{
+    margin-bottom: 35px;
+    padding-right: 0px;
+}
+h1{
+    color: #408886;
+    margin: 0.5em;
+    font-size: 1.4em;
+    margin-bottom: 0px;
+}
+
+/******PROJET 2******/
+#btnGroupDrop1{
+    background-color: white;
+    border: none;
+}
+
+#colonne6>img{
+    height: 6em;
+    margin-bottom: 20px;
+}
+#marge{
+    margin-left: 40px;
+}
+#pad{
+    padding-left: 20px;
+}
+#holi{
+    padding: 27px;
+}
+
+/******PROJET 3******/
+#colonne7>img{
+    height: 8em;
+    margin-bottom: 20px;
+}
+
+#colonne7{
+    padding-right: 0px;
+    padding-left: 0px;
+    display: block;
+    top: 25px;
+}
+
+/******PROJET 4******/
+#logo_ecole{
+    margin-left: 40px;
+}
+#logo2{
+    padding-bottom: 15px;
+    margin-top: 21px;
+    margin-left: -35px;
+}
+#entetelettre{
+    padding-left: 74px;
+}
+#voiture_ecole{
+    padding-left: 19px;
+}
+#carte_visite_ecole{
+    padding-left: 14px;
+    margin-left: 3px;
+}
+#ecole{
+    margin-top: 30px;
+    margin-bottom: 29px;
+}
+/******PROJET 5******/
+#colonne9>img{
+    height: 7em; 
+    margin-bottom: 20px;
+}
+#marge2{
+    margin-left: 40px;
+}
+#pad2{
+    padding-left: 80px;
+}
+#milieu{
+    padding-left: 70px;
+}
+
+/******PROJET 6******/
+#affiche{
+    height: 30em;
+    padding-left: 22px;
+}
+
+/******PROJET 7*****/
+#flyer_choisi{
+    margin-left: 25px;
+}
+#visualisation, #tarif, #carton_invitation{
+    width: 9.4em;
+    margin-left: 7px;
+}
+#jouvences{
+    margin-bottom: 15px;
+    margin-top: 16px;
+}
+/*****PROJET 8******/
+#logo_canipus{
+    margin-left: 5px;
+    margin-top: 30px;
+}
+#logo_canipus_2{
+    margin-left: -23px;
+    margin-bottom: 5px;
+}
+#carte_visite_canipus{
+    margin-left: -25px;
+}
+#site_canipus{
+    width: 85%;
+    margin-left: 28px;
+    margin-top: 10px;
+}
+
+/******PHOTOGRAPHIE******/
+#galerie{
+    margin-bottom: 40px;
+}
+
+/******COMPETENCES******/
+#indesign{
+    background-color: #ff408c;
+}
+#illustrator{
+    background-color: #f67503;
+}
+#photoshop{
+    background-color: #24c4f2;
+}
+#html5{
+    background-color: #dd4b25;
+}
+#css3{
+    background-color: #254bdd;
+}
+#travail{
+     background-color: #408886;
+}
+#adaptabilité{
+    background-color: #F7716C;
+}
+#rigueur{
+    background-color: darkkhaki;
+}
+#creativite{
+    background-color: purple;
+}
+#JavaScript{
+    background-color: #ffcd25;
+}
+#SQL{
+    background-color: #4a4a4a;
+}
+#PHP{
+    background-color: #4d588f;
+}
+.progress{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#compétences>h1{
+    color: #408886;
+    margin: 0.5em;
+    font-size: 1.4em;
+}
+#compétences>p{
+    color: #555;
+    margin: 0.5em;
+    font-size: 1em;
+    padding-bottom: 35px;
+}
+#compétences>h2{
+    padding-left: 10px;
+    padding-bottom: 5px;
+    color: #555;
+}
+/******EXPERIENCES******/
+#expériences>div>h1{
+    color: #408886;
+    margin: 0.5em;
+    font-size: 1.4em;
+}
+.timeline {
+    list-style: none;
+    padding: 20px 0 20px;
+    position: relative;
+}
+
+    .timeline:before {
+        top: 0;
+        bottom: 0;
+        position: absolute;
+        content: " ";
+        width: 3px;
+        background-color: #eeeeee;
+        left: 50%;
+        margin-left: -1.5px;
+    }
+
+    .timeline > li {
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+        .timeline > li:before,
+        .timeline > li:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline > li:after {
+            clear: both;
+        }
+
+        .timeline > li:before,
+        .timeline > li:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline > li:after {
+            clear: both;
+        }
+
+        .timeline > li > .timeline-panel {
+            width: 46%;
+            float: left;
+            border: 1px solid #d4d4d4;
+            border-radius: 2px;
+            padding: 20px;
+            position: relative;
+            -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+            box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+        }
+
+            .timeline > li > .timeline-panel:before {
+                position: absolute;
+                top: 26px;
+                right: -15px;
+                display: inline-block;
+                border-top: 15px solid transparent;
+                border-left: 15px solid #ccc;
+                border-right: 0 solid #ccc;
+                border-bottom: 15px solid transparent;
+                content: " ";
+            }
+
+            .timeline > li > .timeline-panel:after {
+                position: absolute;
+                top: 27px;
+                right: -14px;
+                display: inline-block;
+                border-top: 14px solid transparent;
+                border-left: 14px solid #fff;
+                border-right: 0 solid #fff;
+                border-bottom: 14px solid transparent;
+                content: " ";
+            }
+
+        #rond{
+            color: #fff;
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 1.4em;
+            text-align: center;
+            position: absolute;
+            top: 16px;
+            left: 12%;
+            margin-left: -25px;
+            z-index: 100;
+            border-top-right-radius: 50%;
+            border-top-left-radius: 50%;
+            border-bottom-right-radius: 50%;
+            border-bottom-left-radius: 50%;
+            background-color: white;
+        }
+        .timeline > li.timeline-inverted > .timeline-panel {
+            float: right;
+        }
+
+            .timeline > li.timeline-inverted > .timeline-panel:before {
+                border-left-width: 0;
+                border-right-width: 15px;
+                left: -15px;
+                right: auto;
+            }
+
+            .timeline > li.timeline-inverted > .timeline-panel:after {
+                border-left-width: 0;
+                border-right-width: 14px;
+                left: -14px;
+                right: auto;
+            }
+.timeline-title {
+    margin-top: 0;
+    color: inherit;
+}
+
+.timeline-body > p,
+.timeline-body > ul {
+    margin-bottom: 0;
+    color: #555;
+}
+
+    .timeline-body > p + p {
+        margin-top: 5px;
+    }
+
+@media (max-width: 767px) {
+    ul.timeline:before {
+        left: 40px;
+    }
+
+    ul.timeline > li > .timeline-panel {
+        width: calc(100% - 90px);
+        width: -moz-calc(100% - 90px);
+        width: -webkit-calc(100% - 90px);
+    }
+
+    ul.timeline > li > .timeline-badge {
+        left: 15px;
+        margin-left: 0;
+        top: 16px;
+    }
+
+    ul.timeline > li > .timeline-panel {
+        float: right;
+    }
+
+        ul.timeline > li > .timeline-panel:before {
+            border-left-width: 0;
+            border-right-width: 15px;
+            left: -15px;
+            right: auto;
+        }
+
+        ul.timeline > li > .timeline-panel:after {
+            border-left-width: 0;
+            border-right-width: 14px;
+            left: -14px;
+            right: auto;
+        }
+}
+#experiences{
+    margin-right: 18px;
+}
+
+/******MES DIPLOMES******/
+.display-4{
+    font-size: 2em;
+    text-align: center;
+}
+#diplome>h1{
+    color: #408886;
+    margin: 0.5em;
+    font-size: 1.4em;
+}
+.jumbotron{
+    margin-left: 28px;
+}
+
+/******CONTACT******/
+input{
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 15px;
+}
+
+#contact>.col-12>h1{
+    text-align: center;
+}
+#contact>.col-12>hr{
+    margin-right: -31px;
+}
+
+#info{
+    background-color: #F7716C;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-right: 106px;
+    margin-bottom: 20px;
+}
+#p-info{
+    padding-left: 15px;
+    margin-right: -30px;
+    margin-top: 25px;
+    text-align: center;
+    
+}
+#bouton_valide{
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+    background-color: #408886;
+}
+
+#liens{
+    margin: 5px;
+}
+
+#contact_me{
+    margin-bottom: 7px;
+    text-align: center;
+}
+#facebook{
+    color: #3b5998;
+}
+
+#twitter{
+    color:#00aced;
+}
+#instagram{
+    color:#fb3958;
+}
+#gmail{
+    color: #D44638;
+}
+#me_retrouver{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/******************PARTIE TABLETTE******************/
+@media screen and (min-width: 720px) {
+header{
+    width: 47.3em;
+}
+/*****LOGO*******/
+#logo{
+    height: 8em;
+}
+
+/*****NAV****/
+ul{
+    background-color: white;
+}
+a{
+    color: #555;
+}
+
+/******PARTIE ACCUEIL****/
+
+#section_bordure{
+    border-right: 4px solid #fcab6a;
+}
+#photo{
+    width: 100%;
+}
+     .container{
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    
+    #photo{
+        padding-bottom: 0em;
+    }
+    #Accueil>.card-img-overlay {
+        top: 420px;
+        right: 370px;
+        text-align: center;
+    }
+    #Accueil>.card-img-overlay>h1,h2{
+        font-size: 2em;
+    }
+    
+    #Accueil>.card-img-overlay>p{
+        font-size: 1em;
+    }
+}
